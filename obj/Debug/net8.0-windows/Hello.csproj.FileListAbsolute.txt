@@ -1,0 +1,46 @@
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.exe
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.deps.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.runtimeconfig.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\App.g.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello_MarkupCompile.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello_MarkupCompile.lref
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.g.resources
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.AssemblyInfoInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.AssemblyInfo.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.csproj.CoreCompileInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\refint\Hello.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.genruntimeconfig.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\ref\Hello.dll
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.exe
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.deps.json
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.runtimeconfig.json
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.dll
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Hello.pdb
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\App.g.cs
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello_MarkupCompile.cache
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello_MarkupCompile.lref
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.g.resources
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.AssemblyInfoInputs.cache
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.AssemblyInfo.cs
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.csproj.CoreCompileInputs.cache
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.dll
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\refint\Hello.dll
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.pdb
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.genruntimeconfig.cache
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\ref\Hello.dll
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.csproj.AssemblyReference.cache
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\App.baml
+D:\Das\2 C#\@ Dot.Net misollari\WPF\Hello\Hello\obj\Debug\net8.0-windows\Hello.csproj.CopyComplete

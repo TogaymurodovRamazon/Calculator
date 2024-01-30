@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQZMoHJN3AV4pPuWaYIQeBYL3L3OpOB5Ri0fuGT9S+qvzSNf7/clt1dzThkSBFoF5K6B0a4CNF/3KkzTzJ7a4A==",
+  "success": true,
+  "projectFilePath": "D:\\Das\\2 C#\\@ Dot.Net misollari\\WPF\\Calculator1\\Calculator1\\Calculator1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\materialdesigncolors\\3.0.0-ci508\\materialdesigncolors.3.0.0-ci508.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesignthemes\\5.0.0-ci508\\materialdesignthemes.5.0.0-ci508.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

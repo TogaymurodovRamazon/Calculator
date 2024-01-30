@@ -1,0 +1,205 @@
+﻿<Window x:Class="Hello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hello"
+        mc:Ignorable="d"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        
+        Title="Calculator"
+        WindowStyle="None"
+        ResizeMode="CanMinimize"
+        Background="Transparent"
+        AllowsTransparency="True"
+        Height="650" Width="500">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background"
+                    Value="Black"/>
+            <Setter Property="FontSize"
+                    Value="22"/>
+                <Setter Property="Margin"
+                        Value="1"/>
+            <Setter Property="Foreground"
+                    Value="White"/>
+        </Style>
+        
+    </Window.Resources>
+    <Border
+        Background="#6D6D6D"
+        CornerRadius="20">
+        <Grid>
+                
+                <materialDesign:ColorZone
+                        Mode="PrimaryDark"
+                        Padding="10"
+                        CornerRadius="20,20,0,0"
+                        ClipToBounds="False">
+                        <StackPanel
+                                Orientation="Horizontal">
+                                <ToggleButton
+                                        Style="{StaticResource MaterialDesignHamburgerToggleButton}" />
+                                <TextBlock
+                                        VerticalAlignment="Center"
+                                        Margin="16 0 0 0"
+                                        Text="Settings" />
+                        </StackPanel>
+                </materialDesign:ColorZone>
+                
+                <Button Grid.Column="3"
+                        VerticalAlignment="Top"
+                        HorizontalAlignment="Right"
+                        Height="25"
+                        Width="25"
+                        Margin="7,7,7,7"
+                        Background="Transparent"
+                        x:Name="ExitBun"
+                        Padding="0"
+                        Click="ExitBun_OnClick"
+                >
+                     
+                     
+                     <Label 
+                                        VerticalAlignment="Center"
+                                        HorizontalAlignment="Center"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalContentAlignment="Center"
+                                        Content="x"
+                                           Padding="0"
+                                           FontWeight="Bold"
+                                           FontSize="18"
+                                        Foreground="Red"
+                                           />
+                                    
+                                </Button>
+            <TextBox x:Name="numberBox"
+                HorizontalContentAlignment="Right"
+                VerticalContentAlignment="Center"
+                BorderThickness="0"
+                Background="Transparent"
+                Foreground="White"
+                FontSize="25" 
+                     VerticalAlignment="Top" 
+                     Margin="0,40,0,0"
+                     Height="90"/>
+            <Grid
+                                Background="Transparent"
+                                Height="500"
+                                VerticalAlignment="Bottom">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                <Button Grid.Column="0" Grid.Row="0"
+                        Click="ButtonBase_OnClick_8"
+                        >%</Button>
+                <Button Grid.Column="1" Grid.Row="0">CE</Button>
+                <Button Grid.Column="2" Grid.Row="0"
+                        Click="ButtonBase_OnClick_1"
+                        >C</Button>
+                <Button Grid.Column="3" Grid.Row="0"
+                        Click="ButtonBase_OnClick_2"
+                        >⇦</Button>
+                
+                <Button Grid.Column="0" Grid.Row="1"
+                        Click="ButtonBase_OnClick_6"
+                        >1/x</Button>
+                <Button Grid.Column="1" Grid.Row="1"
+                        Click="ButtonBase_OnClick_5"
+                        >x*x</Button>
+                <Button Grid.Column="2" Grid.Row="1"
+                        Click="ButtonBase_OnClick_7"
+                        >x^(1/2)</Button>
+                <Button Grid.Column="3" Grid.Row="1" 
+                        Click="ButtonBase_OnClick_3"
+                        >/</Button>
+                
+                <Button Grid.Column="0" Grid.Row="2"
+                        Click="ButtonBase_OnClick"
+                        >7</Button>
+                <Button Grid.Column="1" Grid.Row="2"
+                        Click="ButtonBase_OnClick"
+                        >8</Button>
+                <Button Grid.Column="2" Grid.Row="2" 
+                        Click="ButtonBase_OnClick"
+                        >9</Button>
+                <Button Grid.Column="3" Grid.Row="2" 
+                        Click="ButtonBase_OnClick_3"
+                        >*</Button>
+                
+                <Button Grid.Column="0" Grid.Row="3"
+                        Click="ButtonBase_OnClick"
+                        >4</Button>
+                <Button Grid.Column="1" Grid.Row="3"
+                        Click="ButtonBase_OnClick"
+                        >5</Button>
+                <Button Grid.Column="2" Grid.Row="3" 
+                        Click="ButtonBase_OnClick"
+                        >6</Button>
+                <Button Grid.Column="3" Grid.Row="3" 
+                        Click="ButtonBase_OnClick_3"
+                        >-</Button>
+                
+                <Button 
+                    Grid.Column="0" Grid.Row="4" 
+                    Click="ButtonBase_OnClick"
+                        >1</Button>
+                <Button Grid.Column="1" Grid.Row="4"
+                        Click="ButtonBase_OnClick"
+                        >2</Button>
+                <Button Grid.Column="2" Grid.Row="4" 
+                        Click="ButtonBase_OnClick"
+                        >3</Button>
+                <Button Grid.Column="3" Grid.Row="4"
+                        Click="ButtonBase_OnClick_3"
+                        >+</Button>
+                
+                <Border Grid.Column="0" Grid.Row="5"
+                        Margin="1"
+                        Background="Black" 
+                        CornerRadius="0,0,0,25">
+                     <Button BorderThickness="0"
+                             Background="Transparent"
+                             Click="ButtonBase_OnClick_9"
+                             >+/-</Button>
+                </Border>
+                <Button Grid.Column="1" Grid.Row="5"
+                        Click="ButtonBase_OnClick"
+                        >0</Button>
+                <Button Grid.Column="2" Grid.Row="5"
+                        Click="ButtonBase_OnClick"
+                        >.</Button>
+                <Border Grid.Column="3" Grid.Row="5"
+                        Margin="1"
+                        Background="Black"
+                        CornerRadius="0,0,25,0">
+                    <Button BorderThickness="0"
+                            Background="Transparent"
+                            Click="ButtonBase_OnClick_4"
+                            >=</Button>
+                </Border>
+                
+                
+        </Grid>
+        </Grid>
+    </Border>
+    
+</Window>
